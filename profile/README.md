@@ -19,16 +19,10 @@ Expanso helps teams process, transform, and protect data where it is created —
 - **[mcp.expanso.io](https://github.com/expanso-io/mcp.expanso.io)**  
   MCP server for Expanso documentation with semantic retrieval.
 
-- **[makoto](https://github.com/expanso-io/makoto)**  
-  Data integrity framework with assurance levels and DBOMs (Data Bills of Materials).
-
 ### Supporting Repositories
 
 - **[templates](https://github.com/expanso-io/templates)**  
   Starter templates for getting new Expanso projects running quickly.
-
-- **[slide-work](https://github.com/expanso-io/slide-work)**  
-  Presentation and narrative materials used across demos and messaging.
 
 ---
 
